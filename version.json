@@ -1,0 +1,28 @@
+{
+  "version": "2.0.1",
+  "releaseDate": "2024-12-19",
+  "changelog": [
+    "İlk sürüm yayınlandı",
+    "Steam oyun yönetimi ve hızlı indirme",
+    "Bypass ve Online Pass oyun listeleri",
+    "Discord Rich Presence entegrasyonu",
+    "Modern glassmorphism arayüzü",
+    "Akıllı oyun arama sistemi",
+    "Otomatik sürüm kontrolü",
+    "Çoklu dil desteği (TR/EN)"
+  ],
+  "features": [
+    "Steam API entegrasyonu",
+    "Oyun kütüphanesi yönetimi",
+    "DLC seçim sistemi",
+    "Video oynatma desteği",
+    "Gelişmiş filtreleme",
+    "Cache sistemi"
+  ],
+  "requirements": {
+    "os": "Windows 10/11",
+    "ram": "4GB",
+    "storage": "1GB",
+    "internet": "Gerekli"
+  }
+}
